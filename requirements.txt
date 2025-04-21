@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
 sqlalchemy
-jose
+python-jose
 passlib
 python-dotenv
